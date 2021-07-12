@@ -28,7 +28,7 @@
   "peerDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "react": "~17",
-    "react-native": "> 0.64",
+    "react-native": "^0.64.0",
     "react-native-svg": "> 7.0"
   },
   "devDependencies": {
